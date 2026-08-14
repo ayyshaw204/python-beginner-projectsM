@@ -1,4 +1,4 @@
-def tiltle_case(r):
+def title_case(r):
     return r.title()
 
-print(tiltle_case("tom and jerry"))
+print(title_case("tom and jerry"))
